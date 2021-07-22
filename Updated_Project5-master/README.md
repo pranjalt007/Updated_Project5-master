@@ -9,8 +9,6 @@ Steps:
 
 2. Push the code on git hub.
 
-https://github.com/lakhansharma11/Updated_Project5.git 
-
 3. created 2 EC2 instances. 1 for Jenkins application and 2nd Tomcat server.
 
 4. Creating CI/CD pipeline code followed below steps in script.
